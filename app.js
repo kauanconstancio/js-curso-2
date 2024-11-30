@@ -29,3 +29,18 @@
 //     let nomeDaCidade = prompt('Digite o nome de uma cidade do Brasil!')
 //     alert(`Estive em ${nomeDaCidade} e lembrei de você!`)
 // };
+
+//Desafio 5
+// Ao clicar no botão soma, peça 2 números inteiros e exiba o resultado da soma em um alerta.
+//(concluido)
+
+// function somar() {
+//     alert('Vamos Somar!');
+
+//     let numero1 = parseInt(prompt('Digite um numero!'));
+//     let numero2 = parseInt(prompt('Digite outro numero!'));
+
+//     let resultadoSoma = numero1 + numero2;
+
+//     alert(`A soma dos numeros ${numero1} e ${numero2} é : ${resultadoSoma} `);
+// }
